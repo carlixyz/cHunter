@@ -1,0 +1,8 @@
+﻿Application:
+    Window:
+        Properties:
+            _Name: Engin3d!
+            _Width: '640'
+            _Height: '4aw80'
+            _Bits: '16d'
+            _Fullscreens: 'false'

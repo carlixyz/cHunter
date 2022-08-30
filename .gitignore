@@ -1,2 +1,7 @@
 # exclude all these below
 
+.vs
+Engin3D\.vs
+Engin3D\Intermediate
+*.db
+x64
